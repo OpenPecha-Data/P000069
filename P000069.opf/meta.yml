@@ -1,12 +1,14 @@
-ebook_metadata:
+id: P000069
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །ཆོས་བཤད་གཞན་ཕན་ཟླ་བ་ཞེས་བྱ་བ་བཞུགས་སོ། །
   authors:
   - མཛད་པ་པོ། ཞབས་དཀར་ཚོགས་དྲུག་རང་གྲོལ།
-  sku: SHE-SHAP-12
   layers:
   - book_title
   - author
   - quotation
+  id: SHE-SHAP-12
 web_metadata:
   title:
     en: The Beneficial Moon:The Public Teaching of Shabkar
